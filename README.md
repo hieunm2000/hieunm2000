@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Nguyen Minh Hieu. I am a Data Analyst. I am interested in the following topics: Data Analytics, Machine Learning, Deep Learning.<br>
+My name is Nguyen Minh Hieu. I am a Data Analyst. I am interested in the following topics: Data Analytics, Machine Learning, Deep Learning. I have experience in Product & UX Analyst with solid skills in market research, feature analysis, and user insight translation.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hieunm2k/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hieunm2000)
